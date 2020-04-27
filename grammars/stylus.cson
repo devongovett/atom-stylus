@@ -116,7 +116,7 @@
     'captures':
       '1':
         'name': 'keyword.other.unit.stylus'
-    'match': '(?<![a-zA-Z])(?x)\n\t\t\t\t(?:-|\\+)?(?:(?:[0-9]+(?:\\.[0-9]+)?)|(?:\\.[0-9]+))\n\t\t\t\t((?:px|pt|ch|cm|mm|in|r?em|ex|pc|deg|g?rad|dpi|dpcm|s)\\b|%)?'
+    'match': '(?<![a-zA-Z])(?x)\n\t\t\t\t(?:-|\\+)?(?:(?:[0-9]+(?:\\.[0-9]+)?)|(?:\\.[0-9]+))\n\t\t\t\t((?:px|pt|ch|cm|mm|in|r?em|ex|pc|deg|g?rad|dpi|dpcm|s|vw|vh)\\b|%)?'
     'name': 'constant.numeric.stylus'
   }
   {
